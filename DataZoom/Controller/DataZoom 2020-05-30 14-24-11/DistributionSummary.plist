@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DataZoom.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>A80626D07D1B029E458D3BE2893C2AFFC7FF89DA</string>
+				<key>dateExpires</key>
+				<string>27/05/2021</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>A80626D07D1B029E458D3BE2893C2AFFC7FF89DA</string>
+						<key>dateExpires</key>
+						<string>27/05/2021</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>AmpCore.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>8TVJ3ANFR2</string>
+						<key>name</key>
+						<string>Datazoom Inc.</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>A80626D07D1B029E458D3BE2893C2AFFC7FF89DA</string>
+						<key>dateExpires</key>
+						<string>27/05/2021</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>AmpIMA.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>8TVJ3ANFR2</string>
+						<key>name</key>
+						<string>Datazoom Inc.</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>A80626D07D1B029E458D3BE2893C2AFFC7FF89DA</string>
+						<key>dateExpires</key>
+						<string>27/05/2021</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>DZAkamaiCollector.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>8TVJ3ANFR2</string>
+						<key>name</key>
+						<string>Datazoom Inc.</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>A80626D07D1B029E458D3BE2893C2AFFC7FF89DA</string>
+						<key>dateExpires</key>
+						<string>27/05/2021</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>DataZoom.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>8TVJ3ANFR2</string>
+						<key>name</key>
+						<string>Datazoom Inc.</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>A80626D07D1B029E458D3BE2893C2AFFC7FF89DA</string>
+						<key>dateExpires</key>
+						<string>27/05/2021</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>DropDown.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>8TVJ3ANFR2</string>
+						<key>name</key>
+						<string>Datazoom Inc.</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>A80626D07D1B029E458D3BE2893C2AFFC7FF89DA</string>
+						<key>dateExpires</key>
+						<string>27/05/2021</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>FBLPromises.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>8TVJ3ANFR2</string>
+						<key>name</key>
+						<string>Datazoom Inc.</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>A80626D07D1B029E458D3BE2893C2AFFC7FF89DA</string>
+						<key>dateExpires</key>
+						<string>27/05/2021</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>GoogleInteractiveMediaAds.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>8TVJ3ANFR2</string>
+						<key>name</key>
+						<string>Datazoom Inc.</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>A80626D07D1B029E458D3BE2893C2AFFC7FF89DA</string>
+						<key>dateExpires</key>
+						<string>27/05/2021</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>GoogleUtilities.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>8TVJ3ANFR2</string>
+						<key>name</key>
+						<string>Datazoom Inc.</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>A80626D07D1B029E458D3BE2893C2AFFC7FF89DA</string>
+						<key>dateExpires</key>
+						<string>27/05/2021</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>Starscream.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>8TVJ3ANFR2</string>
+						<key>name</key>
+						<string>Datazoom Inc.</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>A80626D07D1B029E458D3BE2893C2AFFC7FF89DA</string>
+						<key>dateExpires</key>
+						<string>27/05/2021</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>nanopb.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>8TVJ3ANFR2</string>
+						<key>name</key>
+						<string>Datazoom Inc.</string>
+					</dict>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>8TVJ3ANFR2.com.datazoom.akcollector</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>8TVJ3ANFR2</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>8TVJ3ANFR2.com.datazoom.akcollector</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>DataZoomDemo.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>003eea87-bc16-4df6-85dd-611021544c10</string>
+				<key>name</key>
+				<string>Tony's New Provisioning Profile</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>8TVJ3ANFR2</string>
+				<key>name</key>
+				<string>Datazoom Inc.</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
